@@ -44,4 +44,8 @@
   ## Questions
   
   If you have any questions about the repo, open an issue or contact [Samantha Samarua](https://github.com/samanthasamarua) directly at samantha.samarua@gmail.com.
+
+   ## Video Link
+   https://drive.google.com/file/d/1IRLYHnx_SzvnB1O2ymQdPx360VSHFyjG/view?usp=sharing
+   
   
